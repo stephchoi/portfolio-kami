@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Bloc Experience
-date: 
 ---
 As someone who has never even looked at any form of coding before starting my time at Bloc, I was worried about a lot of different things going in. How difficult would learning the different languages be? How much do I need to know to be a "successful web developer"? Can I even learn to code?
 

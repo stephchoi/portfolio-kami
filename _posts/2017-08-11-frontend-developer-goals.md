@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What to Do When Stuck
-date:
 ---
 So you're stuck on a problem. You've already gone and Googled any possible solutions without any luck. And you're just dying from the frustration of working over and over again without any real progress. So you post your problem on Stack Overflow to ask the wise masses for their input. You don't just want to laze around waiting like a damsel in distress, do you? No, you want to be self-sufficient. But to even think about working through the problem brings so much stress you think your hair will fall out.
 
