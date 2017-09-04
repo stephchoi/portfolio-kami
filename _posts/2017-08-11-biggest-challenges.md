@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Bumps in the Road
-date: 
+date:
 ---
 Currently I've completed most of the Frontend Development curriculum at Bloc: HTML, CSS, JavaScript, JQuery, and Angular. The more I learn, the more I think, "What I wouldn't do to go back to the first steps of learning HTML, CSS, and JavaScript."
 
