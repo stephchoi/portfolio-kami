@@ -55,7 +55,7 @@ This resulted in the successful modal opening.
 
 (img)
 
-##Results
+## Results
 
 After the initial debacle with UI-Bootstrap, building the rest of the application itself went rather smoothly. The username modal, which defined and kept the user's preferred name using Cookies and would pop-up when the page loaded, was much easier to define and create knowing how to use the UI-Bootstrap modal.
 
