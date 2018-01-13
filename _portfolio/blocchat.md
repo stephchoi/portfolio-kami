@@ -6,6 +6,7 @@ short-description: BlocChat is a chat app with the ability to send, receive and 
 ---
 
 {:.center}
+![]({{ site.baseurl }}/img/bloc_jams_home.png)
 
 ## Explanation
 
@@ -59,12 +60,12 @@ This resulted in the successful modal opening.
 
 After the initial debacle with UI-Bootstrap, building the rest of the application itself went rather smoothly. The username modal, which defined and kept the user's preferred name using Cookies and would pop-up when the page loaded, was much easier to define and create knowing how to use the UI-Bootstrap modal.
 
-Bootstrap was used as the main CSS library with a couple of changes here and there in order to fit the simple chatroom style that I preferred. There's a sidebar for navigation in off-black that lists the name of the site, "Bloc Chat", and the names of the different chat rooms in white. The whitespace to the sidebar's right is where the messages are shown, with the user ID and the timestamp of when the message is sent. At the bottom of the whitespace, is the message bar where you can type and send messages in real time. After submission, the new message shows up at the bottom of the message list in the chat room.
+Bootstrap was used as the main CSS library with supplemental changes here and there in order to fit the simple chatroom style that I preferred. There's a sidebar for navigation in off-black that lists the site name, "Bloc Chat", and the names of the different chat rooms in white. The whitespace to the sidebar's right is where the messages are shown, with the user ID and the timestamp of when the message is sent. At the bottom of the whitespace, is the message bar where you can type and send messages in real time. After submission, the new message shows up at the bottom of the message list in the chat room.
 
 (img)
 
 ## Conclusion
 
-BlocChat was an excellent project to explore and experiment with AngularJS, UI-Router, and UI-Bootstrap. I didn't know what to expect with this project going in, since I was using so many different and new components, like the Firebase database and ng-Cookies. To be honest I never expected to have so much trouble with just the UI-Bootstrap modal; I expected to struggle all around but not so specifically with just UI-Bootstrap.
+BlocChat was an excellent project to explore and experiment with AngularJS, UI-Router, and UI-Bootstrap. I didn't know what to expect with this project going in, because I was using so many different and new components, e.g. the Firebase database and ng-Cookies. To be honest I never expected to have so much trouble with just the UI-Bootstrap modal.
 
-The documentation for the UI-Bootstrap modal seemed clear and simple but it didn't translate over into my app quite as directly as I thought it would. It made me learn that I should analyze how to incorporate the documented code into my code based on how I want my code to work and not how the code works in the documentation.
+While the documentation for the UI-Bootstrap modal seemed clear and simple, it didn't translate over into my app quite as directly as I thought it would. This made me learn that I should analyze how to incorporate the documented code into my code based on how I want my code to work and not how the code works in the documentation. In hindsight this seems glaringly obvious. How could anyone expect anything to be so simple as copying and pasting directly from the internet? Oh, well. It's a lesson learned nonetheless.
