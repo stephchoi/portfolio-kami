@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Witty & Hilarious Full Stack Developer</h1>
+     <p>I'm a kickass developer specializing in Rails and Angular, for now.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
@@ -27,7 +27,7 @@ theme_settings:
   github: "stephchoi" # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
-  linkedin: ""  # Full URL
+  linkedin: "stephchoi"  # Full URL
   pinterest:
   reddit:
   soundcloud:
