@@ -1,12 +1,11 @@
 ---
 layout: post
 title: BlocChat
-thumbnail-path:
+thumbnail-path: "img/blocchat_chatroom.png"
 short-description: BlocChat is a chat app with the ability to send, receive and view messages in real time.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloc_jams_home.png)
 
 ## Explanation
 
@@ -54,7 +53,7 @@ In the end I moved the modal opening function into the home controller like so:
 
 This resulted in the successful modal opening.
 
-(img)
+![]({{ site.baseurl }}/img/blocchat_modal.png)
 
 ## Results
 
@@ -62,7 +61,8 @@ After the initial debacle with UI-Bootstrap, building the rest of the applicatio
 
 Bootstrap was used as the main CSS library with supplemental changes here and there in order to fit the simple chatroom style that I preferred. There's a sidebar for navigation in off-black that lists the site name, "Bloc Chat", and the names of the different chat rooms in white. The whitespace to the sidebar's right is where the messages are shown, with the user ID and the timestamp of when the message is sent. At the bottom of the whitespace, is the message bar where you can type and send messages in real time. After submission, the new message shows up at the bottom of the message list in the chat room.
 
-(img)
+![]({{ site.baseurl }}/img/blocchat_chatroom.png)
+
 
 ## Conclusion
 
