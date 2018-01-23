@@ -11,7 +11,7 @@ short-description: BlocJams is an interactive and responsive digital music playe
 ## Explanation
 BlocJams is a a music streaming application originaly built with HTML, CSS, JavaScript and JQuery and refactored with AngularJS. It's user friendly, browser-responsive, and has a small music library that you can play tracks from.
 
-# Features
+## Features
 
 The collection template displays all of the albums currently in the database of the application with album art, album title, artist name, and release date.
 
@@ -91,13 +91,13 @@ SongPlayer.setCurrentTime = function(time) {
 {% endhighlight %}
 
 
-# Shortcomings
+## Shortcomings
 
 Obviously this application doesn't quite have the breadth of music that any user would want to have in their music streaming application. It has an Angular framework but no real database/ back-end support to make it a widely used and musically varied application.
 
 However, as a whole there's a potential to build on the framework set. Currently the application only has one album within it's collection that's shown repeatedly in this format in order to mimic how a multi-album collection would look like. This way, if in the future we'd like to add more albums to the database, we won't have to worry about formatting the collections page, the wireframe for it is there.
 
- # Conclusions
+## Conclusions
 
  In general, I did notice how much easier it was to bind events using Angular than it was just using JavaScript and jQuery. The structure of the entire webpage/application with Angular was much more complex than that of the page without it. It makes a lot of sense because Angular sets up the frame for a much more complex application.
 

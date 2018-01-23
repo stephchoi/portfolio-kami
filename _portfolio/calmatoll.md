@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calm Atoll
-thumbnail: "img/calm-atoll.png"
+thumbnail-path: "img/calm-atoll.png"
 short-description: Draw on a shared whiteboard while chatting with a friend in real-time.
 ---
 
